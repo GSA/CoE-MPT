@@ -4,13 +4,12 @@
 This repository contains CoE MPP procurements being run by the [Centers of Excellence](https://coe.gsa.gov/) for ourselves. Should you need any additional information on how the CoE MPP process works or what we expect from participants, please visit [the CoE MPP process](https://github.com/GSA/CoE-MPP-process/) repository. We also welcome any and all feedback you have on the CoE MPP through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
 ## Opportunities
-There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPP/issues) and use the following format:
 
-> ### {{User-Story-Title}}
-> 
-> * **Link to Issue:** [Issue number XX](URL)
-> * **When the Q&A period will close:** MONTH DD, YYYY at noon, eastern
-> * **When the responses must be submitted:** MONTH DD, YYYY at noon, eastern
+### Innovation Showcase Website
+
+* **Link to Issue:** [Issue number 1](https://github.com/GSA/CoE-MPP/issues/1)
+* **When the Q&A period will close:** September 25, 2019 at noon, eastern
+* **When the responses must be submitted:** September 27, YYYY at noon, eastern
 
 ## Workflow
 When awarding a new CoE MPP buy, these are the steps we follow:
