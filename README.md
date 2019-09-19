@@ -4,7 +4,7 @@
 This repository contains CoE MPP procurements being run by the [Centers of Excellence](https://coe.gsa.gov/) for ourselves. Should you need any additional information on how the CoE MPP process works or what we expect from participants, please visit [the CoE MPP process](https://github.com/GSA/CoE-MPP-process/) repository. We also welcome any and all feedback you have on the CoE MPP through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
 ## Opportunities
-There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPP/Issues) and use the following format:
+There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPP/issues) and use the following format:
 
 > ### {{User-Story-Title}}
 > 
