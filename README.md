@@ -34,7 +34,7 @@ When a contractor submits a deliverable, these are the steps we follow to accept
 We reserve the right to delete a competition, prohibit responses, and forego delivery at any point in the process outlined above. We will not issue payment to a contractor until that contractor's code has been deemed acceptable per the requirements outlined in the Issue and their pull request has been successfully merged.
 
 ## Participating
-The requirements to participate are outlined in [PARTICIPATING.md](https://github.com/GSA/CoE-MPP-template/blob/master/PARTICIPATING.md).
+The requirements to participate are outlined in [PARTICIPATING.md](https://github.com/GSA/CoE-MPP/blob/master/PARTICIPATING.md).
 
 ## Source-selection method
 We use competitions to determine the source for any given purchase. Eligible contractors can place bids on a competition during its bidding period. Once that period ends, the winner will be selected by the person who initiated the competition based on the best perceived combination of price and perceived risk, where evidence provided with the bid will be used to help assess risk. For example, a bidder may include with their bid a pointer to previously published work they completed which demonstrates they have the skills and knowledge to tackle the current work. This reduces the perceived risk that the bidder won't be able to deliver on the requirements.
