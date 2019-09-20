@@ -1,12 +1,15 @@
-[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > CoE MPP
+##### [CoE Acquisitions](https://github.com/GSA/coe-acquisitions)
 
-<h1><img src="https://coe.gsa.gov/img/coe-logomark.svg" width="40px" align="top" alt="The Centers of Excellence Logo"> Centers of Excellence / Acquisitions</h1>
+<h1><img src="https://coe.gsa.gov/img/coe-logomark.svg" width="40px" align="top" alt="The Centers of Excellence Logo"> Centers of Excellence / Micro-purchase Platform (MPP) </h1>
 
 #### We partner with agencies to accelerate IT modernization, improve public experience, and increase operational efficiency. [Learn more »](https://coe.gsa.gov/about/)
 
+_A product of [the General Services Administration](https://www.gsa.gov) (GSA)._
+
 ---
 
-# CoE MPP
+## Overview of the Centers of Excellence Micro-purchase Platform (CoE MPP)
+
 This repository contains CoE MPP procurements being run by the [Centers of Excellence](https://coe.gsa.gov/) for ourselves. Should you need any additional information on how the CoE MPP process works or what we expect from participants, please visit [the CoE MPP process](https://github.com/GSA/CoE-MPP-process/) repository. We also welcome any and all feedback you have on the CoE MPP through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
 ## Opportunities
