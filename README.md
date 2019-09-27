@@ -14,11 +14,13 @@ This repository contains CoE MPP procurements being run by the [Centers of Excel
 
 ## Opportunities
 
-### Innovation Showcase Website
+There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPP-template/issues) and use the following format:
 
-* **Link to Issue:** [Issue number 1](https://github.com/GSA/CoE-MPP/issues/1)
-* **When the Q&A period will close:** September 25, 2019 at noon, eastern
-* **When the responses must be submitted:** September 27, YYYY at noon, eastern
+> ### {{User-Story-Title}}
+> 
+> * **Link to Issue:** [Issue number XX](URL)
+> * **When the Q&A period will close:** MONTH DD, YYYY at noon, eastern
+> * **When the responses must be submitted:** MONTH DD, YYYY at noon, eastern
 
 ## Workflow
 When awarding a new CoE MPP buy, these are the steps we follow:
@@ -48,3 +50,11 @@ The requirements to participate are outlined in [PARTICIPATING.md](https://githu
 We use competitions to determine the source for any given purchase. Eligible contractors can place bids on a competition during its bidding period. Once that period ends, the winner will be selected by the person who initiated the competition based on the best perceived combination of price and perceived risk, where evidence provided with the bid will be used to help assess risk. For example, a bidder may include with their bid a pointer to previously published work they completed which demonstrates they have the skills and knowledge to tackle the current work. This reduces the perceived risk that the bidder won't be able to deliver on the requirements.
 
 In the event that a winner is either (a) unable to deliver on a competition by the delivery deadline assigned to them or (b) delivers code that is deemed unacceptable, we reserve the right to reject the work, choose a new winner from previous bidders on the competition, or re-run the competition.
+
+## Previous opportunities
+
+### Innovation Showcase Website
+
+* **Link to Issue:** [Issue number 1](https://github.com/GSA/CoE-MPP/issues/1)
+* **When the Q&A period will close:** September 25, 2019 at noon, eastern
+* **When the responses must be submitted:** September 27, 2019 at noon, eastern
