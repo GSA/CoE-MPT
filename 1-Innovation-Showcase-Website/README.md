@@ -1,4 +1,4 @@
-# GSA/CoE-MPP [Issue 1](https://github.com/GSA/CoE-MPP/issues/1)
+# GSA/CoE-MPP [Issue 1](https://github.com/GSA/CoE-MPT/issues/1)
 
 ## Background
 
