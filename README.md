@@ -8,13 +8,13 @@ _A product of [the General Services Administration](https://www.gsa.gov) (GSA)._
 
 ---
 
-## Overview of the Centers of Excellence Micro-purchase Platform (CoE MPP)
+## Overview of the Centers of Excellence Micro-purchase Threshold procurements
 
-This repository contains MPT procurements being run by the [Centers of Excellence](https://coe.gsa.gov/) for ourselves. Should you need any additional information on how the process works or what we expect from participants, please visit [the MPT process](https://github.com/GSA/CoE-MPP-process/) repository. We also welcome any and all feedback you have on the MPT process we use through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
+This repository contains MPT procurements being run by the [Centers of Excellence](https://coe.gsa.gov/) for ourselves. Should you need any additional information on how the process works or what we expect from participants, please visit [the MPT process](https://github.com/GSA/CoE-MPT-process/) repository. We also welcome any and all feedback you have on the MPT process we use through our "[indefinite RFI](https://forms.gle/Lo38qwjTyE7hCPUG7)", which we will never close. Thank you!
 
 ## Opportunities
 
-There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPP-template/issues) and use the following format:
+There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPT-template/issues) and use the following format:
 
 > ### {{User-Story-Title}}
 > 
