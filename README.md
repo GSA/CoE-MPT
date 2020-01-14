@@ -14,7 +14,7 @@ This repository contains MPT procurements being run by the [Centers of Excellenc
 
 ## Opportunities
 
-There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPT-template/issues) and use the following format:
+There are currently no user stories that need assistance. When a user story is ready to be posted, it will be posted to this repo's [Issues tab](https://github.com/GSA/CoE-MPT/issues) and use the following format:
 
 > ### {{User-Story-Title}}
 > 
